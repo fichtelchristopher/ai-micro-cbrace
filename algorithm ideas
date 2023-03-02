@@ -1,0 +1,9 @@
+https://hal.inria.fr/hal-03558165/document 
+The Hierarchical Vote Collective of Transformation-Based Ensembles (HIVECOTE) algorithm is an extension of COTE with significant modifications (Lines
+et al, 2018), including a new type of spectral classifier called Random Interval Spectral Ensemble, two more classifiers (BOSS and Time Series Forest), and a hierarchical voting procedure, defined as a weighted average of the probabilities returned
+by each classifier, with the weights being proportional to the classification accuracy
+estimated through cross-validation.
+
+
+Reinforcement Learning 
+https://takuseno.github.io/d3rlpy/  --> reinforcement learnign for offline datasets
